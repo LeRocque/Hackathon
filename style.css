@@ -1,0 +1,33 @@
+
+#header {
+    display: block;
+    text-align: center;
+}
+
+#pizza-gif {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100px;
+}
+
+#thumbNail {
+    display: block;
+    height: 75px;
+    width: 75px;
+    background-size: cover;
+
+}
+
+button {
+    display: block;
+    height:50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: none;
+    border-color: white;
+    color: white;
+    background: transparent;
+}

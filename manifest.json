@@ -1,0 +1,25 @@
+{
+ 
+  "manifest_version": 3,
+  "name": "PizzaTime",
+  "version": "1.0.1",
+
+  "action": {
+  
+      "default_popup": "index.html"
+   
+  },
+  "description": "When you're hungry, press the button.",
+  "icons": {
+    "16": "Pizza.png"
+  },
+
+  "permissions": [
+    "tabs",
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
